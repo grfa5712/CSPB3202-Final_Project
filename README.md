@@ -10,7 +10,7 @@ CartPole PPO Model (score of 500):  https://youtu.be/Gky3He_EFeI
 
 LunarLander Random Agent (score of -245):  https://youtu.be/qhp2HucBCvc
 
-LunarLanderContinuous PPO Model (score of __):  https://youtu.be/18j9MXnC8Kk
+LunarLanderContinuous PPO Model (score of 126):  https://youtu.be/18j9MXnC8Kk
 
 LunarLanderContinuous TD3 Model (score of 278):  https://youtu.be/OMkwaTpEIFQ
 
