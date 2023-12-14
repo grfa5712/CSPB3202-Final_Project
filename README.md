@@ -8,4 +8,4 @@ CartPole Random Agent (score of 25):  https://youtu.be/uxj0NUOjuuA
 
 CartPole PPO Model (score of 500):  https://youtu.be/Gky3He_EFeI
 
-LunarLander Random Agent (score of ):  https://youtu.be/qhp2HucBCvc
+LunarLander Random Agent (score of -245):  https://youtu.be/qhp2HucBCvc
